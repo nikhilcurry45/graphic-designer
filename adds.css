@@ -1,0 +1,45 @@
+.header{
+background-color:black;
+color:white;
+}
+.header a{
+color:white;
+text-decoration:none;
+background-color:gray;
+padding:12px;
+border-radius:12px;
+}
+.header a:hover{
+background-color:green;
+}
+.d1{
+ margin-left:20px;
+}
+.d1 span:before{
+content:'\1F466';
+}
+.d1 span{
+ background-color:gray;
+ padding:12px;
+}
+.center{
+background-color:#141738;
+height:600px;
+}
+.input{
+margin-right:20px;
+}
+.dsa p{
+color:white;
+}
+.ls{
+background-color:#141738;
+}
+.samples{
+background-color:#141738;
+height:200px;
+}
+.end{
+background-color:black;
+height:200px;
+}
